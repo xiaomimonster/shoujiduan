@@ -1,0 +1,217 @@
+/*
+* @Author: nsus
+* @Date:   2018-03-21 10:32:30
+* @Last Modified by:   13350
+* @Last Modified time: 2018-03-23 15:48:23
+*/
+body{
+	background: #f9f9f9;
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+header{
+	width: 100%;
+	height: 0.53rem;
+	background: #212121;
+}
+.left{
+	width: 1.2rem;
+	height: 0.29rem;
+	/* background: pink; */
+	float: left;
+	margin-top: 0.12rem;
+	margin-left: 0.2rem;
+}
+/* .left i{
+	font-size: 0.29rem;
+	float: left;
+	line-height: 0.29rem;
+	color: #fff;
+} */
+.left img{
+	display: block;
+	width: 1.2rem;
+	height: 0.29rem;
+}
+.right{
+	width: 0.26rem;
+	height: 0.16rem;
+	/* background: blue; */
+	float: right;
+	margin: 0.19rem 0.19rem 0 0;
+}
+.right span{
+	display: block;
+	width: 100%;
+	height: 0.02rem;
+	background: #585858;
+	margin-bottom: 0.05rem;
+}
+.right span:last-child{
+	margin-bottom: 0;
+}
+.gundong{
+	width: 100%;
+	height: 5.3rem;
+/* 	background: pink; */
+	border-bottom: 0.01rem solid #fff;
+}
+.promos_box{
+	width: 100%;
+	height: 10.04rem;
+	background: #234962;
+}
+.img_list{
+	
+}
+.img_list li{
+	width: 100%;
+	height: 2.5rem;
+	background: #000;
+	border-bottom: 0.01rem solid #fff;
+}
+.img_list li a{
+	display: block;
+	width: 100%;
+	height: 2.5rem;
+	overflow: hidden;
+}
+.one{
+	background: url('../img/1.jpg') no-repeat center;
+	background-size: cover;
+}
+.two{
+	background: url('../img/2.jpg') no-repeat center;
+	background-size: cover;
+}
+.three{
+	background: url('../img/3.jpg') no-repeat center;
+	background-size: cover;
+}
+.four{
+	background: url('../img/4.jpg') no-repeat center;
+	background-size: cover;
+}
+.img_list li a h1{
+	display: block;
+	width: 3rem;
+	height: 0.3rem;
+	margin: 0.27rem auto 0;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.3rem;
+	color: #666666;
+}
+.img_list li a h2{
+	display: block;
+	width: 3rem;
+	height: 0.24rem;
+	margin: 0 auto;
+	font-size: 0.16rem;
+	text-align: center;
+	line-height: 0.24rem;
+	color: #666666;
+}
+.fuwu{
+	width: 3.6rem;
+	height: 1.52rem;
+/* 	background: orange; */
+	margin: 0.2rem auto 0;
+
+}
+.fuwu li{
+	width: 100%;
+	height: 0.38rem;
+	border-bottom: 0.01rem solid #ccc;
+}
+
+.fuwu li .zuo{
+	font-size: 0.14rem;
+	color: #666;
+	float: left;
+	line-height: 0.38rem;
+	font-weight: bold;
+}
+.fuwu li .you{
+	display: block;
+    font-size: 0.14rem;
+    color: #666;
+    line-height: 0.38rem;
+    float: right;
+    font-weight: normal;
+    margin-right: 0.08rem;
+    font-weight: bold;
+}
+.rexian{
+	width: 4rem;
+	height: 1.38rem;
+	/* background: yellow; */
+	overflow: hidden;
+}
+.rexian a{
+	display: block;
+	width: 100%;
+	height: 0.25rem;
+	font-size: 0.18rem;
+	color: #333;
+	margin-top: 0.2rem;
+	text-align: center;
+	font-weight: bold;
+	font-family: 黑体；
+}
+.rexian ul{
+	margin-top: 0.09rem;
+}
+.rexian li{
+	width: 100%;
+	height: 0.24rem;
+	display: block;
+	font-size: 0.14rem;
+	text-align: center;
+	color: #666;
+}
+.bottom{
+	width: 99%;
+	height: 1.45rem;
+	/* background: red; */
+	border-top: 0.01rem solid #E2E2E2;
+}
+.bottom h1{
+	margin-top: 0.2rem;
+}
+.bottom p{
+	width: 100%;
+	height: 0.2rem;
+	font-size: 0.02rem;
+    color: #aaa;
+    margin-left: 0.21rem;
+    line-height: 0.2rem;
+}
+.bottom p a{
+	font-size: 0.02rem;
+    color: #aaa;
+}
+.bottom i{
+	font-size: 0.3rem;
+	color: #aaaaaa;
+	float: left;
+	margin: 0.11rem 0 0 0.17rem;
+}
+.swiper-wrapper img{
+	display: block;
+	width: 100%;
+	height: 5.3rem;
+}
+.swiper-container {
+    width: 100%;
+	height: 5.3rem;
+} 
+
+
+
+
+	
